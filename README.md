@@ -3,7 +3,7 @@ Neural network implemented in Java fo academic purposes. The implemented artific
 achieved an error rate of 3.4% on the MNIST dataset.
 
 #MNIST database
-Link to MNIST dataset: http://yann.lecun.com/exdb/mnist
+Link to MNIST dataset: http://yann.lecun.com/exdb/mnist.
 The files should be placed in the same directory.
 
 #Code example XOR
