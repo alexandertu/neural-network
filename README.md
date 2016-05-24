@@ -1,5 +1,5 @@
 # neural-network
-Neural network implemented in Java fo academic purposes. The implemented artificial neural network
+Neural network implemented in Java for academic purposes. The implemented artificial neural network
 achieved an error rate of 3.4% on the MNIST dataset.
 
 #MNIST database
