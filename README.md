@@ -22,7 +22,7 @@ public class Example {
         
         //Add training data
         n.addTrainingData(new double[] {0,0}, new double[] {0});
-        n.addTrainingData(new double[] {0,0}, new double[] {1});
+        n.addTrainingData(new double[] {1,0}, new double[] {1});
         n.addTrainingData(new double[] {0,1}, new double[] {1});
         n.addTrainingData(new double[] {1,1}, new double[] {0});
       
